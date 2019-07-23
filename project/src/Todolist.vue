@@ -28,7 +28,7 @@ export default {
      const item={
        value,
        finished:false,
-     }
+     };
      this.list.push(item);
   }
   }
